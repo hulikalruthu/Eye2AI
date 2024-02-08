@@ -1,0 +1,174 @@
+Image number,Target descriptor for Human,Target descriptor for Neural Network
+403,one way sign,traffic sign
+406,trash can,waste container
+408,taxi,taxicab
+411,truck,pickup truck
+418,closet,wardrobe
+419,bowl,soup bowl
+420,jacket,fur coat
+421,tray,tray
+423,iPod,iPod
+424,light,spotlight
+425,pillow,pillow
+426,bowl,mixing bowl 
+430,red vase,vase
+431,toaster oven,toaster
+432,tea pot,teapot
+433,waves,seashore
+436,bike,mountain bike
+439,door,sliding door
+446,shelf,bookcase
+447,ocean,seashore
+448,ocean,seashore
+449,bike,mountain bike
+450,window,window screen
+453,cart,shopping cart
+454,car,passenger car
+456,blinds,window screen
+457,monitor,monitor
+459,curtain,front curtain
+462,washing machine,washing machine
+463,blinds,window screen
+464,sink,sink
+465,television,television
+466,television,television
+467,bottle,wine bottle
+470,monitor,monitor
+471,window,window screen
+473,microwave,microwave oven
+474,bath tub,bathtub
+476,window,window screen
+479,sink,sink
+480,bath towel,bath towel
+482,towel,bath towel
+484,pillow,pillow
+485,lamp,table lamp
+489,pillow,pillow
+492,dining room table,dining table
+493,fridge,refrigerator
+494,coffee maker,coffeemaker
+495,window,window screen
+496,dish washer,dishwasher
+497,microwave,microwave oven
+499,couch,couch
+501,fish,goldfish
+502,coffee table,dining table
+504,lamp post,pole
+507,bicycle,mountain bike
+508,moped,moped
+517,lamp,table lamp
+521,glass,beer glass
+523,trash can,waste container
+524,window,window screen
+528,book shelf,bookcase
+529,towel,bath towel
+530,mug,coffee mug
+532,keyboard,computer keyboard
+535,dresser,wardrobe
+537,desk,desk
+539,trash can,waste container
+540,door,sliding door
+546,couch,couch
+556,car,passenger car
+562,trash can,waste container
+569,tray,tray
+573,desk,desk
+578,coffee,coffee mug
+579,sewing machine,sewing machine
+581,faucet,sink
+582,bicycle,mountain bike
+583,bathmat,doormat
+589,chair,rocking chair
+591,tea pot,teapot
+592,plate,plate rack
+595,lightswitch,switch
+598,cup,cup
+600,light,table lamp
+601,chair,rocking chair
+607,ambulance,ambulance
+608,pole,pole
+612,lightswitch,switch
+614,curtain,front curtain
+615,sewing machine,sewing machine
+617,cup,beer glass
+619,microwave,microwave oven
+621,books,bookcase
+623,chair,rocking chair
+624,toaster,toaster
+626,tv,television
+627,patio,patio
+628,laptop,notebook computer
+633,tv,television
+635,chair,rocking chair
+636,laptop,laptop computer 
+637,toaster,microwave oven
+638,kettle,teapot
+641,car,passenger car
+645,chair,folding chair
+649,clock,wall clock
+651,computer,notebook computer
+655,lamp,table lamp
+656,towel,bath towel
+662,blinds,window screen
+665,guitar,acoustic guitar
+666,paper towel,paper towel
+669,keyboard,computer keyboard
+671,mailbox,mailbox
+672,chair,barber chair
+673,oranges,orange
+678,paper towel,paper towel
+679,couch,couch
+682,cat,tabby cat
+690,window,window screen
+693,guitar,acoustic guitar
+695,vase,vase
+696,chair,rocking chair
+698,alcohol,wine bottle
+699,plates,plate
+701,door,sliding door
+706,candle,candle
+707,pillow,pillow
+708,bookshelf,bookcase
+712,chair,rocking chair
+713,cup,cup
+716,chair,rocking chair
+719,radio,radio
+720,alarm clock,digital clock
+722,bowl,soup bowl
+728,towel,bath towel
+730,desk,desk
+734,curtain,front curtain
+738,tv,television
+740,chair,rocking chair
+741,refrigerator,refrigerator
+744,tv,television
+746,laptop,laptop computer
+751,lamp,table lamp
+752,pillow,pillow
+753,steering wheel,car wheel
+754,sign,traffic sign
+759,blinds,window screen
+760,lamp,table lamp
+761,bottle,water bottle
+764,faucet,sink
+767,pillow,pillow
+768,lamp,lampshade
+769,pillow,pillow
+771,window,window screen
+772,books,bookcase
+774,lamp,table lamp
+775,books,bookcase
+776,trashbag,plastic bag
+778,toilet paper,toilet paper
+779,sink,sink
+781,sink,sink
+787,tv,television
+789,vase,vase
+790,vase,vase
+792,rug,doormat
+794,pillow,pillow
+795,window,window screen
+796,books,bookcase
+797,shoes,running shoe
+798,sink,sink
+799,window,window screen
